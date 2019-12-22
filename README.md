@@ -1,0 +1,2 @@
+# flutter_personalfinance
+做一个好看的个人财务网站
